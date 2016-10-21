@@ -9,6 +9,8 @@ table, td, th{
 			}
 			
 			body{
+				display:flex;
+				align-items: bottom;
 				background-image:url('Rum.jpg');
 				font-family: 'Oswald', sans-serif;
 				background-size: cover;
@@ -35,4 +37,6 @@ table, td, th{
 				color: red;
 			}
 			
-			
+			img{
+				width:65px;
+			}
